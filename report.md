@@ -8,6 +8,8 @@ This is random text in the body
 
 If you want **bold** text, use double stars.
 
+If you want to make text *italics*, is single stars.
+
 If you want to make a list, use hyphens :
 - List 1
 - List 2
@@ -15,7 +17,7 @@ If you want to make a list, use hyphens :
 If you want to use numbers :
 1. Item 1
 2. Item 2
-3. Item 3
+
 
 This is a space
 
